@@ -1,7 +1,7 @@
 <h1>Be Academy-Devstart-Git e GitHub</h1>
 <h2>Git e GitHub</h2>
 
-<p>Repositório criado para incluir os entrgáveis do Programa Devstart da Be Academy sobre o primeiro tema prático Git e Github.<br/> Abaixo irei listar os comandos úteis do Git e GitHub abordados na aula.
+<p>Repositório criado para incluir os entregáveis do Programa Devstart da Be Academy sobre o primeiro tema prático Git e Github.<br/> Abaixo irei listar os comandos úteis do Git e GitHub abordados na aula.
 </p> 
 
 <h3>Funcionalidades:</h3>
