@@ -1,4 +1,9 @@
-<h1>Be Academy-Devstart-Git e GitHub</h1>
+<p align="center">
+<img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png">
+</p>
+
+# be.academy - Git e GitHub
+
 <h2>Git e GitHub</h2>
 
 <p>Repositório criado para incluir os entregáveis do Programa Devstart da Be Academy sobre o primeiro tema prático Git e Github.<br/> Abaixo irei listar os comandos úteis do Git e GitHub abordados na aula.
@@ -6,7 +11,7 @@
 
 <h3>Funcionalidades:</h3>
 
-<em>
+<p>
         git config --global user.name "nome"(configura usuário) <br>
         git config --global user.email "email" (configura email de usuário) <br/>
         git status (mostra o status do git) <br>
@@ -31,4 +36,4 @@
         git stash list (lista stashes) <br>
         git revert "4 primeiros dígitos do hash do commit" (inverte as mudanças de um commit e gera um novo commit com o conteúdo invertido) 
 
-</em>
+</p>
