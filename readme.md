@@ -6,7 +6,7 @@
 
 <h3>Funcionalidades:</h3>
 
-<p>
+<em>
         git config --global user.name "nome"(configura usuário) <br>
         git config --global user.email "email" (configura email de usuário) <br/>
         git status (mostra o status do git) <br>
@@ -31,4 +31,4 @@
         git stash list (lista stashes) <br>
         git revert "4 primeiros dígitos do hash do commit" (inverte as mudanças de um commit e gera um novo commit com o conteúdo invertido) 
 
-</p>
+</em>
