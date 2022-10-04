@@ -1,11 +1,8 @@
-<p align="center">
-<img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png">
-</p>
 
-# Be.academy - Git e GitHub
+#  Git e GitHub
 
-<p>Repositório criado para incluir os entregáveis do Programa Devstart da Be Academy sobre o primeiro tema prático Git e Github.
-<br/> Abaixo irei listar os comandos úteis do Git e GitHub abordados na aula.
+<p>Repositório criado com comandos de Git e Github.
+<br/> Abaixo irei listar os comandos úteis do Git e GitHub.
 </p> 
 
 <h3>Funcionalidades:</h3>
