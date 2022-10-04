@@ -1,9 +1,7 @@
 
 #  Git e GitHub
 
-<p>Repositório criado com comandos de Git e Github.
-<br/> Abaixo irei listar os comandos úteis do Git e GitHub.
-</p> 
+<p>Abaixo irei listar os comandos úteis do Git e GitHub.</p> 
 
 <h3>Funcionalidades:</h3>
 
